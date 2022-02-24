@@ -1,9 +1,10 @@
 html{
   background-color: black;
+  height: 100vh;
 }
 body{
   width:80vw;
-  height: 800px;
+  height:70vh;
   background-color: aqua;
   margin: 0 auto;
 }
