@@ -2,6 +2,14 @@ html{
   background-color: black;
   height: 100vh;
 }
+@media only screen and (max-width: 600px) {
+  body{
+    width:100vw;
+    height:300px;
+    background-color: aqua;
+    margin: 0 auto;
+  }
+}
 body{
   width:80vw;
   height:70vh;
